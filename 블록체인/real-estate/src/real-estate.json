@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "type": "돼지고기(삽겹살)",
+    "picture": "images/pig.jpg",
+    "area": "10/04",
+    "price": 1.23,
+    "carinfo":"B"
+  },
+  {
+    "id": 1,
+    "type": "쇠고기",
+    "picture": "images/cow.jpg",
+    "area": "10/05",
+    "price": 1.56,
+    "carinfo":"B+"
+  },
+  {
+    "id": 2,
+    "type": "돼지고기(등심)",
+    "picture": "images/pig.jpg",
+    "area": "10/22",
+    "price": 1.74,
+    "carinfo":"A"
+  },
+  {
+    "id": 3,
+    "type": "닭고기",
+    "picture": "images/ken.jpg",
+    "area": "10/21",
+    "price": 0.87,
+    "carinfo":"A"
+  },
+  {
+    "id": 4,
+    "type": "쇠고기",
+    "picture": "images/cow.jpg",
+    "area": "10/20",
+    "price": 1.97,
+    "carinfo":"A"
+  },
+  {
+    "id": 5,
+    "type": "닭고기",
+    "picture": "images/ken.jpg",
+    "area": "10/19",
+    "price": 0.77,
+    "carinfo":"B"
+  },
+  {
+    "id": 6,
+    "type": "돼지고기(꽃등심)",
+    "picture": "images/pig.jpg",
+    "area": "10/23",
+    "price": 2.12,
+    "carinfo":"A+"
+  },
+  {
+    "id": 7,
+    "type": "닭고기",
+    "picture": "images/ken.jpg",
+    "area": "10/1",
+    "price": 0.57,
+    "carinfo":"C"
+  },
+  {
+    "id": 8,
+    "type": "쇠고기",
+    "picture": "images/cow.jpg",
+    "area": "10/6",
+    "price": 1.52,
+    "carinfo":"B"
+  },
+  {
+    "id": 9,
+    "type": "쇠고기",
+    "picture": "images/cow.jpg",
+    "area": "10/21",
+    "price": 2.11,
+    "carinfo":"A"
+  }
+]
