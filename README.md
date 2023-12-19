@@ -4,8 +4,6 @@
 - https://www.kw.ac.kr/ko/life/newsletter.jsp?BoardMode=view&DUID=2220
 
 
-본 프로젝트에서 아두이노 부분을 제외하고는 전부 본인이 개발함
-
 
 1. 냉장고재료인식및추천
 시나리오: 재료 스캔 -> 레몬 인식 -> 연어 인식 -> 스마트싱스 multi purpose 센서
